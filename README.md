@@ -4,7 +4,7 @@
 
 ## Some facts about me:
 
-- 🇵🇹  I'm from Portugal and my two favorite cities are Porto and Coimbra
+- 🇵🇹 I'm from Portugal and my two favorite cities are Porto and Coimbra
 - 📚 I'm currently studying Computer Science and Engeneering at [ISEC][isec]
 - 🎬 I love watching anime and TV shows
 - 🎶 One of my main hobbies is creating playlists on Spotify. Check [them][spotify] out!
