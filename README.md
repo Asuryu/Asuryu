@@ -12,9 +12,10 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Tomás | Twitter" height="22px" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" />][twitter]
-[<img align="left" alt="Tomás | Instagram" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
-[<img align="left" alt="Asuryu | AniList" height="24px" src="https://anilist.co/img/icons/android-chrome-512x512.png" />][anilist]
+[<img align="left" alt="Twitter" height="22px" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" />][twitter]
+[<img align="left" alt="Instagram" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="left" alt="AniList" height="24px" src="https://anilist.co/img/icons/android-chrome-512x512.png" />][anilist]
+[<img align="left" alt="Spotify" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Antu_spotify.svg/1200px-Antu_spotify.svg.png" />][spotify]
 
 <br />
 
