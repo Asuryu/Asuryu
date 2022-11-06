@@ -2,25 +2,17 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/TomasVDCouto)](https://img.shields.io/twitter/follow/TomasVDCouto)
 
-## Some facts about me:
 
+
+## Some facts about me:
 - 🇵🇹 I'm from Portugal and my two favorite cities are Porto and Coimbra
 - 📚 I'm currently studying Computer Science and Engineering at [ISEC][isec]
 - 🎬 I love watching anime and TV shows
 - 🎶 One of my main hobbies is creating playlists on Spotify. Check [them][spotify] out!
 
-### Connect with me:
 
-
-[<img align="left" alt="Twitter" height="22px" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" />][twitter]
-[<img align="left" alt="Instagram" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
-[<img align="left" alt="AniList" height="24px" src="https://anilist.co/img/icons/android-chrome-512x512.png" />][anilist]
-[<img align="left" alt="Spotify" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Antu_spotify.svg/1200px-Antu_spotify.svg.png" />][spotify]
-
-<br />
 
 ### Languages and Tools:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" />
 <img align="left" alt="C" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" />
@@ -32,10 +24,17 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
 <br />
 <br />
 
+
+
+### Connect with me:
+[<img align="left" alt="Twitter" height="22px" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" />][twitter]
+[<img align="left" alt="Instagram" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="left" alt="AniList" height="24px" src="https://anilist.co/img/icons/android-chrome-512x512.png" />][anilist]
+[<img align="left" alt="Spotify" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Antu_spotify.svg/1200px-Antu_spotify.svg.png" />][spotify]
+<br />
 
 
 
