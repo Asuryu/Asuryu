@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="cover.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 # Hi, I'm Tomás ✨
 My name is Tomás and I'm a 3rd year student of a BCs in Computer Science and Engineering at [ISEC][isec].<br>
