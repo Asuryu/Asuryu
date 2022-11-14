@@ -31,15 +31,14 @@ I have a huge interest in the software universe and I am eager to learn even mor
 <br />
 
 
-
 ### Connect with me:
-[<img align="left" alt="Twitter" height="22px" src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/1200px-Twitter_bird_logo_2012.svg.png" />][twitter]
+[<img align="left" alt="LinkedIn" height="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="Instagram" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
 [<img align="left" alt="AniList" height="24px" src="https://anilist.co/img/icons/android-chrome-512x512.png" />][anilist]
 [<img align="left" alt="Spotify" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Antu_spotify.svg/1200px-Antu_spotify.svg.png" />][spotify]
 
 [spotify]: https://open.spotify.com/user/dc6z2c2jrpuh302ct04janhhh
 [isec]: https://www.isec.pt/
-[twitter]: https://twitter.com/TomasVDCouto
+[linkedin]: https://twitter.com/TomasVDCouto
 [anilist]: https://anilist.co/user/RedExtremePT
 [instagram]: https://www.instagram.com/tomasvdcouto/
