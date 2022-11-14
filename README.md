@@ -1,7 +1,7 @@
 <img src="cover.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 # Hi, I'm Tomás ✨
-My name is Tomás and I'm a 3rd year student of a BCs in Computer Science and Engineering at [ISEC][isec].<br>
+My name is Tomás and I'm a 3rd year student of a BCs degree in Computer Science and Engineering at [ISEC][isec].<br>
 I have a huge interest in the software universe and I am eager to learn even more!<br>
 
 
